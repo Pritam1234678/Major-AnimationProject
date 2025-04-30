@@ -1,4 +1,4 @@
-LINK->https://obysajency-copy.netlify.app/
+LINK->https://obysagency-copy.netlify.app/
 
 Project Title: Obys.Agency Website Clone
 
